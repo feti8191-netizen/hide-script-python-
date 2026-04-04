@@ -1,0 +1,5 @@
+What is Python?|Python is a high-level, interpreted programming language known for its simplicity and readability.
+Who created Python?|Python was created by Guido van Rossum and first released in 1991.
+What is AI?|Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.
+How do I install packages in Python?|You can install packages using pip: pip install package_name
+What is a virtual environment?|A virtual environment is an isolated Python environment that allows you to manage dependencies separately.
