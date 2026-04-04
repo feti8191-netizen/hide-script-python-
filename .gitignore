@@ -1,0 +1,43 @@
+```
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Data and cache files
+*.pkl
+*.pickle
+*.dat
+*.bin
+*.cache
+.cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*
+venv/
+.venv/
+env/
+ENV/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
